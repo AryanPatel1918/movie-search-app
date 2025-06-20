@@ -16,8 +16,8 @@ A React-based movie search and favorites app powered by the [TMDB (The Movie Dat
 
 ## 📸 Preview
 
-![App Screenshot 1](images/screenshot1.png)
-![App Screenshot 2](images/screenshot2.png)
+![App Screenshot 1](src/images/screenshot1.png)
+![App Screenshot 2](src/images/screenshot2.png)
 
 ## 🛠️ Tech Stack
 
