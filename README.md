@@ -4,7 +4,8 @@ A React-based movie search and favorites app powered by the [TMDB (The Movie Dat
 
 ## 🌐 Live Demo
 
-**Coming soon!** (You can deploy this easily to [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/))
+Check out the live app here:  
+🔗 **[movie-search-react-2025.netlify.app](https://movie-search-react-2025.netlify.app/)**
 
 ## 🚀 Features
 
