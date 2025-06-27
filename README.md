@@ -34,7 +34,7 @@ Check out the live app here:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/movie-search-app.git
+git clone https://github.com/AryanPatel1918/movie-search-app
 cd movie-search-app
 ```
 
